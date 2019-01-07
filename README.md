@@ -1,6 +1,6 @@
 # Source
 
-Official Repository for Source Fall 2019: https://github.com/20rohrichtt/Source
+Official Repository for Source Spring 2019: https://github.com/dknorr/source
 
 ## Description
 
@@ -8,13 +8,14 @@ Source is a (relatively) new HackCville program geared towards learning some of 
 
 ## Class Slides
 
-Class slides can be found in the follow Google Drive folder: https://drive.google.com/open?id=1_zERtZlEsUN8crI9ihftPhgn7eeZUFNK
+Class slides can be found in the follow Google Drive folder: https://drive.google.com/drive/folders/1hR3465cqodCLsmA5csmBfTALu1MYuKKy?usp=sharing
 
 ## Class Format
 
 We will meet regularly on
 
-- TBD
+Sunday 1:00 PM to 2:30 PM
+Wednesday 7:30 PM to 9:30 PM
 
 These class times will be devoted to some introductory learning, pair programming to reinforce concepts, time to work on personal projects, and larger community events (potentially including some speakers from Charlottesville software engineers!).
 
