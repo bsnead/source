@@ -1,8 +1,9 @@
 Taylor Rohrich
 ----
-Slides for this week are at: https://docs.google.com/presentation/d/1bVJBcbxf4-9DnF97rEX6d_rKitUzML4zVFZS0BcXVdQ/edit?usp=sharing
+Slides for this week are at: https://drive.google.com/drive/u/2/folders/1hR3465cqodCLsmA5csmBfTALu1MYuKKy
 ----
 Week 1 Project:
+
     This first week's exercise will help us brush up on Git and start practicing some Javascript. In the Week 1 folder
 there is a file named 'github.js' that you will be editing.Each person will complete one of the 'person' functions: which will take in an array of strings, iterate through it,
 and print out to the terminal some of their favorite things. Pair up in a group of two or three to work on this Exercise.    
